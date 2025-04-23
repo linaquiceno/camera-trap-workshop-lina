@@ -1,0 +1,10 @@
+pandas
+datasets
+Pillow
+requests
+tqdm
+scikit-learn
+torch
+torchvision
+pytorch-lightning
+torchmetrics
